@@ -1,7 +1,0 @@
-Reste a faire :
-
-Checker leaks;
-Checker data races;
-Pourquoi 5 800 200 200 2 ne marche pas ?
-
-
